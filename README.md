@@ -14,7 +14,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 <a href="https://absolum.nl/Licenses"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License"></a>
 </p>
 
-## Tips/Announcements (Soft Introduction)
+## Tags
 - :page_facing_up: Legale documenten
 - :necktie: Professioneel
 - :clipboard: Revisie historie
