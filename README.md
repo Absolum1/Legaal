@@ -22,7 +22,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 - :gb: English version available
 
 ## Waarom hebben wij dit gemaakt?
-Transparantie en eerlijkheid staan bij ons hoog in het vaandel. Wij vinden het cruciaal dat al onze (mogelijke) klanten de onze legale documenten makkelijk kunnen vinden en bekijken. Hierbij is GIT een perfect systeem om alle reviseringen en aanpassingen van de documenten zichtbaar blijven en makkelijk voor iedereen beschikbaar blijven via GitHub.
+Transparantie en eerlijkheid staan bij ons hoog in het vaandel. Wij vinden het cruciaal dat al onze (mogelijke) klanten de onze legale documenten makkelijk kunnen vinden en bekijken. Hierbij is GIT een perfect systeem omdat alle reviseringen en aanpassingen van de documenten zichtbaar blijven en makkelijk voor iedereen beschikbaar blijven via GitHub.
 
 ## Hoe werkt het?
 U kunt op meerdere manieren het document dat u wilt inzien vinden en bekijken, u kunt op de documenten klikken en dan doorgaan naar de README's van de bestanden of u kunt de PDF versie van het bestand downloaden en bekijken. Om makkelijk documenten te vinden kunt u de zoekbalk gebruiken.
